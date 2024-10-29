@@ -1,3 +1,6 @@
+// Receives input into keylog.txt until machine turns off
+// Not for any malicious intent, entirely just to show the possibilities of <50 lines of code in C
+
 #include <stdio.h>
 #include <windows.h>
 
