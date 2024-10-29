@@ -5,6 +5,6 @@ The illiterate scribe
 
 The work continues and more will be revealed upon further insight.
 
-Much thanks and appreciation for the scholar .cutspace for his interpretations on these writings
+Much thanks and appreciation for the scholar for his interpretations on these writings
 
 𒃵 He who sings but cannot speak
